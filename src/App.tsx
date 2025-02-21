@@ -13,7 +13,7 @@ const sampleTrip = {
   budgetMin: 1000,
   budgetMax: 3000,
   maxDuration: 7,
-  preferredSeasons: ['summer', 'fall'],
+  preferredSeason: 'summer',
   status: 'draft',
   createdAt: new Date(),
 };

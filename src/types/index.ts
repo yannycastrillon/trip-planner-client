@@ -5,7 +5,7 @@ export interface Trip {
   budgetMin: number;
   budgetMax: number;
   maxDuration: number;
-  preferredSeasons: String[];
+  preferredSeason: String;
   status: String;
   createdAt: Date;
 }
